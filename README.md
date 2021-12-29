@@ -1,2 +1,1 @@
-# covid_cloud_database
-Build, query and visualiza a cloud database of Covid-19 data
+# Building, querying and visualizing a cloud database of COVID-19 data
